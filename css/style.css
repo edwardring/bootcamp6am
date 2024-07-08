@@ -1,6 +1,7 @@
 /* PALETA DE COLORES GENERAL - modify */
+/* 2024/07/08 cambio color primario a verde */
 :root{
-	--primario:#ffc107;
+	--primario:#15d231;
 	--oscuro: #212121;
 	--blanco: #ffffff;
 	--secundario: #0097A7;
